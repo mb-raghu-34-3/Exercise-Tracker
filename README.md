@@ -2,4 +2,4 @@
 
 https://www.freecodecamp.org/raghunyadav
 
-[visit](https://exercise-tracker-n6mojfbuz-mb-projects-projects.vercel.app)
+[visit](https://exercise-tracker-jade.vercel.app)
